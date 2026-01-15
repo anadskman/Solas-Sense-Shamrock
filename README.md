@@ -22,4 +22,4 @@ I struggled on the Designing as its an odd shape compared to just squares and a 
 
  Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
-![image](https://github.com/user-attachments/assets/70300dec-2573-4389-b823-1a2f87df7921) | ![image](https://github.com/user-attachments/assets/be1503dd-9784-4bbe-be99-2e80fc45e7e1) | ![image](https://github.com/user-attachments/assets/cf9ca6eb-2005-4aee-8a4d-c5b02293f0c5)
+![image](https://github.com/user-attachments/assets/70300dec-2573-4389-b823-1a2f87df7921) | ![image](https://github.com/user-attachments/assets/2b9c9b61-9f4a-4ec6-a8a9-47ec4625b115) | ![image](https://github.com/user-attachments/assets/cf9ca6eb-2005-4aee-8a4d-c5b02293f0c5)
