@@ -3019,7 +3019,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor 220:RESC1005X35N"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical"
 			(at 173.99 105.41 0)
 			(effects
 				(font
@@ -3449,7 +3449,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor 220:RESC1005X35N"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical"
 			(at 175.26 39.37 0)
 			(effects
 				(font
@@ -3879,7 +3879,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor 220:RESC1005X35N"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical"
 			(at 175.26 72.39 0)
 			(effects
 				(font
@@ -4038,7 +4038,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor 220:RESC1005X35N"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical"
 			(at 173.99 95.25 0)
 			(effects
 				(font
@@ -4199,7 +4199,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor 10k:RESC1005X40N"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical"
 			(at 82.55 85.09 0)
 			(effects
 				(font
@@ -4562,7 +4562,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor 220:RESC1005X35N"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical"
 			(at 173.99 83.82 0)
 			(effects
 				(font
@@ -4721,7 +4721,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor 220:RESC1005X35N"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical"
 			(at 175.26 29.21 0)
 			(effects
 				(font
@@ -4880,7 +4880,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor 220:RESC1005X35N"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical"
 			(at 172.72 116.84 0)
 			(effects
 				(font
@@ -5336,7 +5336,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor 220:RESC1005X35N"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical"
 			(at 175.26 62.23 0)
 			(effects
 				(font
@@ -5495,7 +5495,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor 220:RESC1005X35N"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical"
 			(at 173.99 50.8 0)
 			(effects
 				(font
